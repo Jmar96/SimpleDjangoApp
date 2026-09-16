@@ -1,2 +1,6 @@
 # SimpleDjangoApp
 Learn Django, build a simple app
+
+
+To run the application:
+    python manage.py runserver 0.0.0.0:8000
